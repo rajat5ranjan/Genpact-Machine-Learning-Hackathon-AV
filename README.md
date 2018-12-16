@@ -21,7 +21,8 @@ A Regression Problem where based on the historical data of week demands and supp
 
 ## Leaderboard
 * **Public LB : 156th Rank**
-* **Private LB : XXXth Rank**
+* **Private LB : 159th Rank**
+*private leaderboard yet to be finalised*
 
 ### Link to hackathon
 https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon/
